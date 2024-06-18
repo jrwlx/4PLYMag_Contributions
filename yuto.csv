@@ -1,0 +1,151 @@
+line,obstacle,stance,flip,270 in,180 in,180 out,name,video,shoecolor,shoe,headwearcolor,headwear,pantscolor,pants,topcolor,top
+1,flat,3,flip,,,,nollie fs flip,AprilSkateboardsProPart,gray,janoski slipon,,,black,jeans,grey,sweatshirt
+1,gap,1,heel,,,,sw bigspin heel,AprilSkateboardsProPart,gray,janoski slipon,,,black,jeans,grey,sweatshirt
+2,rail,1,,,yes,,sw bs 180 nosegrind,AprilSkateboardsProPart,pure platinum gum,janoski,,,black,jeans,white,hoodie
+3,ledge,3,,,,yes,nollie nosegrind bs 180,AprilSkateboardsProPart,grey white gum,janoski velcro,,,olive,cargos,white,sweatshirt
+3,gap,2,,,,,full cab,AprilSkateboardsProPart,grey white gum,janoski velcro,,,olive,cargos,white,sweatshirt
+4,gap,0,,,,,ollie,AprilSkateboardsProPart,pure platinum gum,janoski,,,black,jeans,olive,overshirt
+5,ledge,0,,,,,fs tail,AprilSkateboardsProPart,black white,janoski slipon,,,black,jeans,yellow,hoodie
+6,rail,0,,,,,fs bigspin board,AprilSkateboardsProPart,grey white gum,janoski velcro,,,black,jeans,black,hoodie
+7,rail,3,,,,,nollie 5-0,AprilSkateboardsProPart,black white,janoski slipon,,,light blue,jeans,black,tshirt
+7,flat,0,,,,,ollie,AprilSkateboardsProPart,black white,janoski slipon,,,light blue,jeans,black,tshirt
+7,rail,0,,,,,bs lip,AprilSkateboardsProPart,black white,janoski slipon,,,light blue,jeans,black,tshirt
+8,ledge,2,,,yes,,halfcab crook,AprilSkateboardsProPart,grey white gum,janoski velcro,,,navy,chinos,grey,hoodie
+8,ledge,3,heel,,yes,yes,nollie fs crook bs heel,AprilSkateboardsProPart,grey white gum,janoski velcro,,,navy,chinos,grey,hoodie
+9,ledge,1,flip,,,yes,sw crook halfcab flip ,AprilSkateboardsProPart,grey white gum,janoski velcro,,,olive,cargo,white,sweatshirt
+10,rail,3,,,,,nollie fs nose,AprilSkateboardsProPart,black white,shane,,,black,jeans,white,tshirt
+11,manual,3,heel,,,,nollie inward heel,AprilSkateboardsProPart,grey white gum,janoski velcro,white green,cap,brown,chinos,black,tshirt
+12,rail,0,,,,,bs feeble,AprilSkateboardsProPart,black white,janoski slipon,,,black,jeans,olive,overshirt
+13,rail,0,,,,,fs feeble,AprilSkateboardsProPart,grey white gum,janoski velcro,,,black,cargos,navy,sweatshirt
+14,rail,1,,,yes,,sw fs 180 to crook,AprilSkateboardsProPart,black white,janoski slipon,,,black,jeans,navy,tshirt
+15,rail,3,,,yes,,nollie bs 180 sw fs 50 ,AprilSkateboardsProPart,black white,janoski slipon,,,black,jeans,black,tshirt
+16,rail,3,,,yes,yes,nollie bs 180 to sw fs 5-0 to reg,AprilSkateboardsProPart,grey white gum,janoski velcro,,,black,jeans,white,tshirt
+17,rail,3,,,yes,yes,nollie fs 180 to sw bs feeble to reg,AprilSkateboardsProPart,black white,shane,,,black,jeans,black,tshirt
+1,rail,0,,,,,fs blunt,TheYutoShow,court purple,sb dunk low,,,blue,jeans,black,hoodie
+1,rail,1,,,,,sw fs tail,TheYutoShow,court purple,sb dunk low,,,blue,jeans,black,hoodie
+2,ledge,1,flip,,,,sw nosegrind fakie flip,TheYutoShow,acg terra,sb dunk low,,,black,jeans,black,tshirt
+2,flat,1,heel,,,,sw heel,TheYutoShow,acg terra,sb dunk low,,,black,jeans,black,hoodie
+2,gap,2,flip,,,,fakie tre,TheYutoShow,acg terra,sb dunk low,,,black,jeans,black,hoodie
+3,rail,3,,,,,nollie fs feeble,TheYutoShow,laser orange,sb dunk low,,,black,jeans,black,hoodie
+4,flat,1,,,,,sw ollie,TheYutoShow,?,?,,,blue,jeans,black,sweatshirt
+4,ledge,1,flip,,,,sw flip bs tail,TheYutoShow,?,?,,,blue,jeans,black,sweatshirt
+5,gap,0,flip,,,,bigflip,TheYutoShow,laser orange,sb dunk low,,,black,jeans,white,tshirt
+5,gap,0,flip,,,,hardflip,TheYutoShow,wheat,sb dunk low,,,blue,jeans,white,tshirt
+6,flat,0,,,,,bs 360,TheYutoShow,chicago,sb dunk low,,,black,cargos,black,sweatshirt
+6,gap,0,,,,,bs 360,TheYutoShow,chicago,sb dunk low,,,black,cargos,black,sweatshirt
+7,ledge,0,,,,,wallie 5-0,TheYutoShow,white gum,sb dunk low,,,black,cargos,black,tshirt
+8,gap,0,,,,,fs shuv,TheYutoShow,chicago,sb dunk low,,,black,cargos,black,tshirt
+9,rail,0,,,,,bs lip,TheYutoShow,white gum,sb dunk low,,,black,jeans,white,tshirt
+10,rail,0,,,,,fs tail ,TheYutoShow,court purple,sb dunk low,,,black,jeans,black,zipup
+10,gap,2,flip,,,,fakie hard,TheYutoShow,court purple,sb dunk low,,,black,jeans,black,zipup
+11,flat,0,flip,,,,tre,TheYutoShow,fragment,jordan 1,,,blue,jeans,black,sweatshirt
+12,ledge,1,,,,,sw bs tail to nose,TheYutoShow,sail bright crimson,sb dunk high,,,black,jeans,grey,sweatshirt
+13,ledge,2,,,yes,,halfcab blunt,TheYutoShow,laser orange,sb dunk low,,,black,jeans,white,tshirt
+13,gap,2,heel,,,,fakie fs heel,TheYutoShow,laser orange,sb dunk low,,,black,jeans,white,tshirt
+14,ledge,1,,,,,sw bs tail shuv,TheYutoShow,black white gum,sb dunk low,,,blue,jeans,black,sweatshirt
+15,flat,0,,,,,ollie,TheYutoShow,acg terra,sb dunk low,,,black,cargos,black,hoodie
+15,rail,0,,,,,fs feeble shuv,TheYutoShow,acg terra,sb dunk low,,,black,cargos,black,hoodie
+16,gap,3,,,,,nollie inward heel,TheYutoShow,black white gum,sb dunk low,,,black,jeans,grey,sweatshirt
+17,ledge,3,flip,,,,nollie flip crook,TheYutoShow,laser orange,sb dunk low,,,blue,jeans,black,tshirt
+18,rail,3,,yes,,,nollie bs 270 noseslide,TheYutoShow,?,?,,,brown,chinos,black,hoodie
+19,gap,0,heel,,,,heel,TheYutoShow,doraemon,sb dunk high,,,black,jeans,white,hoodie
+20,rail,1,,,,yes,sw fs feeble bs 180,TheYutoShow,iowa,sb dunk low,,,black,jeans,black,hoodie
+21,ledge,3,heel,,,,nollie fs heel fs tail,TheYutoShow,sean cliver,sb dunk low,,,black,jeans,grey,sweatshirt
+22,rail,3,,,,,nollie bs bigspin bs tail,TheYutoShow,sail bright crimson,sb dunk high,,,blue,jeans,black,hoodie
+23,gap,1,flip,,,,switch flip,TheYutoShow,wheat,sb dunk low,,,bllue,jeans,black,hoodie
+24,gap,3,heel,,,,nollie fs 180 heel ,TheYutoShow,acg terra,sb dunk low,,,blue,jeans,purple,tshirt
+25,rail,3,,,,,nollie bs noseblunt,TheYutoShow,sail bright crimson,sb dunk high,,,blue,jeans,black,hoodie
+26,rail,1,,,yes,,sw fs 180 to bs feeble,TheYutoShow,sail bright crimson,sb dunk high,,,blue,jeans,white,hoodie
+27,rail,1,,,,,sw fs board,TheYutoShow,court purple,sb dunk low,,,black,jeans,black,tshirt
+28,rail,0,,,yes,,bs 180 to x,TheYutoShow,black white gum,sb dunk low,,,black,jeans,white,tshirt
+29,rail,3,,,,,nollie fs 180 to sw bs 5-0 to reg,TheYutoShow,sail bright crimson,sb dunk high,,,black,jeans,white,tshirt
+30,rail,3,,,yes,,nollie bs 180 to sw bs 5-0,TheYutoShow,court purple,sb dunk low,,,black,jeans,grey,sweatshirt
+31,rail,1,,,yes,,switch fs 180 to crook,TheYutoShow,sail bright crimson,sb dunk high,,,blue,jeans,purple,sweatshirt
+32,rail,1,,,yes,yes,switch bs 180 nosegrind to sw,TheYutoShow,iowa,sb dunk low,,,black,jeans,black,tshirt
+1,rail,3,,,yes,,nollie bs 180 to sw fs smith,Spitfire,court purple,sb dunk low,,,black,jeans,black,tshirt
+2,flat,3,flip,,,,nollie fs flip,Spitfire,white navy,sb dunk low,,,black,jeans,black,hoodie
+2,gap,1,heel,,,,sw bs heel,Spitfire,white navy,sb dunk low,,,black,jeans,black,hoodie
+3,ledge,3,,,,,nollie fs 50,Spitfire,fog,sb dunk low,,,black,jeans,black,puffer
+3,gap,0,,,,,ollie,Spitfire,fog,sb dunk low,,,black,jeans,black,puffer
+4,flat,0,,,,,wallie,Spitfire,fragment,jordan 1,,,black,jeans,purple,tshirt
+4,flat,3,flip,,,,nollie flip,Spitfire,fragment,jordan 1,,,black,jeans,purple,tshirt
+4,ledge,3,,,,,nollie fs blunt,Spitfire,fragment,jordan 1,,,black,jeans,purple,tshirt
+4,gap,0,,,,,bs 360,Spitfire,fragment,jordan 1,,,black,jeans,purple,tshirt
+5,gap,0,,,,,shuv,Spitfire,unicorn gundam,sb dunk high,,,black,jeans,white,tshirt
+6,manual,0,flip,,,,manual to flip,Spitfire,laser blue,sb dunk low,,,black,jeans,black,tshirt
+7,flat,0,heel,,,,heel,Spitfire,court purple,sb dunk low,,,black,jeans,purple,jacket
+7,gap,3,heel,,,,nollie bs bigspin heel,Spitfire,court purple,sb dunk low,,,black,jeans,purple,jacket
+8,ledge,3,,,yes,,nollie fs 180 sw crook,Spitfire,fragment,jordan 1,,,black,jeans,white,tshirt
+8,ledge,1,flip,,,,sw flip bs tail shuv,Spitfire,fragment,jordan 1,,,black,jeans,white,tshirt
+9,transition,0,,,,,idk lol,Spitfire,chicago,sb dunk low,,,blue,jeans,black,tshirt
+10,gap,1,,,,,sw shuv,Spitfire,white navy,sb dunk low,,,black,jeans,black,hoodie
+11,gap,3,heel,,,,nollie fs heel,Spitfire,fog,sb dunk low,,,black,jeans,black,sweatshirt
+12,gap,0,,,,,fs shuv,Spitfire,court purple,sb dunk low,,,black,jeans,multi,puffer
+13,manual,0,,,,,fs 180 to sw nose manual,Spitfire,reverse goldenrod,sb dunk high,,,black,jeans,black,hoodie
+14,ledge,3,heel,,,,nollie heel bs nose bigspin,Spitfire,white navy,sb dunk low,,,black,jeans,green,sweatshirt
+15,rail,3,,yes,,,nollie fs 270 to sw bs lip,Spitfire,chicago,sb dunk low,black,baklava,black,jeans,black,sweatshirt
+1,rail,0,,,,,bs crook,Tokyo,yuto horigome,sb dunk low,camo,cap,black,jeans,green,puffer
+2,manual,0,flip,,,,tre manual,Tokyo,sail bright crimson,sb dunk high,,,khaki,cargos,grey,hoodie
+3,ledge,0,,,,,bs 50,Tokyo,sail bright crimson,sb dunk high,,,khaki,cargos,grey,puffer
+4,rail,0,,,,,bigspin fs board,Tokyo,sail bright crimson,sb dunk high,,,black,jeans,grey,jacket
+5,rail,0,,,,,fs feeble,Tokyo,sail bright crimson,sb dunk high,,,khaki,cargos,grey,puffer
+6,ledge,0,,,,,bs 50,Tokyo,crushed d.c.,sb dunk low,,,black,jeans,grey,puffer
+7,ledge,3,,,,,nollie bs noseblunt,Tokyo,crushed d.c.,sb dunk low,,,black,jeans,black,puffer
+8,ledge,3,,,yes,,nollie fs 180 to sw fs 5-0,Tokyo,crushed d.c.,sb dunk low,,,black,jeans,black,puffer
+9,ledge,3,heel,,,,nollie heel bs noseslide,Tokyo,crushed d.c.,sb dunk low,,,black,jeans,black,puffer
+10,transition,0,,,,,idk lol,Tokyo,doraemon,sb dunk high,black light blue,cap,black,jeans,black,puffer
+11,transition ,0,,,,,idk lol,Tokyo,doraemon,sb dunk high,black light blue,cap,black,jeans,black,puffer
+12,transition,0,,,,,idk lol,Tokyo,doraemon,sb dunk high,black light blue,cap,black,jeans,black,puffer
+12,transition,0,,,,,idk lol,Tokyo,doraemon,sb dunk high,black light blue,cap,black,jeans,black,puffer
+13,gap,0,flip,,,,tre ,Tokyo,court purple,sb dunk low,,,black,jeans,multi,puffer
+13,flat,0,flip,,,,tre ,Tokyo,court purple,sb dunk low,,,black,jeans,multi,puffer
+14,rail,0,,,,,bs crook,Tokyo,supreme rammellzee,sb dunk low,camo,cap,black,jeans,white,tshirt
+15,rail,0,,,,,taildrop lip,Tokyo,yuto horigome,sb dunk low,camo,cap,black,jeans,black,tshirt
+16,transition,3,flip,,,,nollie bs flip,Tokyo,white gum,sb dunk low,,,black,jeans,black,hoodie
+17,ledge,0,,,,,bs 50,Tokyo,supreme rammellzee,sb dunk low,camo,cap,black,jeans,black,tshirt
+18,ledge,1,,,,,sw fs tail to sw crook,Tokyo,supreme rammellzee,sb dunk low,camo,cap,black,jeans,white,tshirt
+18,flat,0,,,,,fs 180,Tokyo,supreme rammellzee,sb dunk low,camo,cap,black,jeans,white,tshirt
+18,gap,1,heel,,,,sw bigspin heel,Tokyo,supreme rammellzee,sb dunk low,camo,cap,black,jeans,white,tshirt
+19,ledge,1,,,,yes,sw shuv nosegrind 180 out,Tokyo,white gum,sb dunk low,black,cap,black,jeans,black,jacket
+20,ledge,3,,,,,nollie bigspin bs noseslide,Tokyo,yuto horigome,sb dunk low,black,cap,black,jeans,grey,hoodie
+21,rail,0,,,,,tre nosegrind,Tokyo,white gum,sb dunk low,,,khaki,cargos,black,puffer
+22,transition,0,,,,,shuv,Tokyo,white gum,sb dunk low,black,cap,olive,cargos,black,sweatshirt
+23,ledge,0,,,,,fs 5-0,Tokyo,crushed d.c.,sb dunk low,,,black,jeans,grey,puffer
+24,gap,0,flip,,,,hardflip,Tokyo,supreme rammellzee,sb dunk low,camo,cap,black,jeans,white,tshirt
+25,gap,0,heel,,,,heel,Tokyo,yuto horigome,sb dunk low,black,cap,khaki,cargos,black,hoodie
+25,gap,0,flip,,,,bigflip,Tokyo,cherry,sb dunk low,black,cap,black,jeans,maroon,hoodie
+26,gap,1,flip,,,,sw fs flip,Tokyo,cherry,sb dunk low,black,cap,black,jeans,maroon,hoodie
+27,rail,1,,,,,sw fs board,Tokyo,yuto horigome,sb dunk low,black,cap,black,jeans,olive,jacket
+28,rail,3,,,,,nollie bs lip,Tokyo,yuto horigome,sb dunk low,black,cap,black,jeans,olive,jacket
+29,transition,0,,,,,bs blunt,Tokyo,yuto horigome,sb dunk low,camo,cap,black,jeans,black,sweatshirt
+30,gap,3,heel,,,,nollie inward heel,Tokyo,yuto horigome,sb dunk low,black,cap,black,jeans,maroon,hoodie
+31,transition,0,,,,,drop in,Tokyo,yuto horigome,sb dunk low,camo,cap,light blue,jeans,black,jacket
+32,ledge,1,,,,,sw bs smith,Tokyo,yuto horigome,sb dunk low,black,cap,olive,cargos,black,tshirt
+33,ledge,1,,,,,sw bs tail bigspin,Tokyo,yuto horigome,sb dunk low,black,cap,olive,cargos,black,tshirt
+34,rail,3,,yes,,,nollie fs 270 to sw bs board ,Tokyo,yuto horigome,sb dunk low,black,cap,olive,cargos,grey,hoodie
+35,rail,3,,yes,,,nollie fs 270 to sw bs tail,Tokyo,yuto horigome,sb dunk low,black,cap,olive,cargos,grey,hoodie
+36,gap,1,heel,,,,sw bs heel,Tokyo,yuto horigome,sb dunk low,black,cap,olive,cargos,grey,hoodie
+37,rail,3,,,yes,yes,nollie fs 180 to sw bs feeble to reg,Tokyo,yuto horigome,sb dunk low,camo,cap,black,jeans,brown,tshirt
+38,rail,1,flip,,,,sw tre lip,Tokyo,yuto horigome,sb dunk low,camo,cap,light blue,jeans,white,tshirt
+39,rail,0,,,,,bs board,Tokyo,yuto horigome,sb dunk low,camo,cap,light blue,jeans,black,tshirt
+40,rail,3,,,,,nolle bs crook,Tokyo,yuto horigome,sb dunk low,camo,cap,light blue,jeans,black,tshirt
+40,gap,0,,,,,ollie,Tokyo,yuto horigome,sb dunk low,camo,cap,light blue,jeans,black,tshirt
+41,rail,3,heel,yes,,,nollie bs 270 heel board,Tokyo,yuto horigome,sb dunk low,camo,cap,olive,cargos,black,tshirt
+1,rail,0,,,,,fs nosegrind,AprilPart,yuto horigome,sb dunk low,black,cap,black,jeans,camo,jacket
+2,gap,0,,,,,bs bigspin,AprilPart,yuto horigome,sb dunk low,,,black,jeans,grey,jacket
+3,gap,1,heel,,,,sw bs heel,AprilPart,white gum,sb dunk low,,,black,jeans,grey,jacket
+3,rail,3,,,,,nollie fs 180 switch crook,AprilPart,white gum,sb dunk low,,,black,jeans,grey,jacket
+4,ledge,3,heel,,,,nollie heel bs noseslide,AprilPart,april skateboards,sb dunk low,blue,cap,black,jeans,black,hoodie
+5,gap,1,,,,,sw fs 180,AprilPart,yuto horigome,sb dunk low,black,cap,black,jeans,camo,jacket
+6,rail,3,,,,,nollie bs blunt,AprilPart,yuto horigome,sb dunk low,black,cap,black,jeans,purple,hoodie
+7,ledge,0,heel,,,,fs tail heel,AprilPart,yuto horigome,sb dunk low,,,black,jeans,grey,jacket
+8,gap,1,heel,,,,sw fs bigspin heel,AprilPart,tightbooth,sb dunk low,black,cap,black,jeans,black,puffer
+9,ledge,1,,,,,sw fs tail to bs tail to flip,AprilPart,yuto horigome,sb dunk low,black,cap,light blue,jeans,grey,sweatshirt
+10,rail,3,heel,,,,nollie heel bs board,AprilPart,atlas lost at sea,sb dunk high,,,blue,jeans,black,sweatshirt
+11,ledge,0,,,,,bs blunt flip,AprilPart,white gum,sb dunk low,black,cap,blue,jeans,black,puffer
+12,rail,3,,,,,nollie fs nose,AprilPart,white gum,sb dunk low,,,black,jeans,black,puffer
+13,rail,3,,,,,nollie fs crook,AprilPart,white gum,sb dunk low,,,black,jeans,black,puffer
+14,flat,2,heel,,,,halfcab heel,AprilPart,familia first avenue,sb dunk low,,,black,jeans,black,hoodie
+14,rail,3,,,yes,yes,nollie fs 180 to sw bs 5-0 to reg,AprilPart,familia first avenue,sb dunk low,,,black,jeans,black,hoodie
+15,rail,3,,,yes,yes,nollie bs 180 to sw fs 5-0 to reg,AprilPart,orange label court purple,sb dunk low,,,blue,jeans,black,tshirt
+16,rail,3,,,,,nollie late flip bs nose,AprilPart,yuto horigome,sb dunk low,black,cap,blue,jeans,grey,hoodie
