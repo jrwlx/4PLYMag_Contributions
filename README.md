@@ -5,6 +5,8 @@ Thank you Pete for making this happen!
 
 And this project was heavily inspired by Jared Wilbur's (https://github.com/jwilber) breakdown of Eric Koston. http://4plymag.com/koston/
 
+
+
 DATASETS
 
 Collected manually through watching youtube videos.
@@ -14,6 +16,8 @@ There are some errors in the datasets such as:
 - misspelled trick names
 - trick names I did not know (ex. lots of transition tricks)
 But were remedied to the best of my ability in the code.
+
+
 
 CODE 
 
