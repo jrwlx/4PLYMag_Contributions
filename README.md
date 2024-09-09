@@ -44,4 +44,4 @@ Code was executed in Jupyter Notebook and using libraries such as Pandas to prep
 
 **yuto.ipynb** goes with http://4plymag.com/yuto/
 
-**yutoshows.ipynb** goes with http://4plymag.com/yutodunks/
+**yutoshoess.ipynb** goes with http://4plymag.com/yutodunks/
