@@ -13,7 +13,7 @@ This project was heavily inspired by Jared Wilbur's breakdown of Eric Koston htt
 
 ## Datasets
 
-Collected manually through watching youtube video using google sheets. 
+Collected manually through watching youtube videos using google sheets. 
 
 **yuto.csv** contains all tricks from 5 video parts 
 1. Nike SB | Yuto Horigome | April Skateboards Pro Part - May 2019
