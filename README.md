@@ -1,8 +1,9 @@
 # 4PLYMAG 
 This repository contains code and datasets used for the analysis and visualization of two 4PLY Magazine articles. 
-http://4plymag.com/yuto/
 
-http://4plymag.com/yutodunks/
+#### http://4plymag.com/yuto/
+
+#### http://4plymag.com/yutodunks/
 
 
 
