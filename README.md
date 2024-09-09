@@ -1,5 +1,6 @@
-# yutohorigome
-http://4plymag.com/yuto/
+# 4PLYMAG 
+# http://4plymag.com/yuto/
+# http://4plymag.com/yutodunks/
 
 Code and Datasets used for 4PLY
 
