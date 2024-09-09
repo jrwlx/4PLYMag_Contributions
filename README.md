@@ -1,10 +1,13 @@
 # 4PLYMAG 
 This repository contains code and datasets used for the analysis and visualization of two 4PLY Magazine articles. 
+<img width="1680" alt="Screenshot 2024-09-09 at 10 38 43 AM" src="https://github.com/user-attachments/assets/e19a7060-55cb-49ea-906a-0f01a10ba579">
 
 ### http://4plymag.com/yuto/
+<img width="1680" alt="Screenshot 2024-09-09 at 10 34 54 AM" src="https://github.com/user-attachments/assets/fb7f91c8-fa1a-4960-93dc-e43181bd5800">
+
 
 ### http://4plymag.com/yutodunks/
-
+<img width="1680" alt="Screenshot 2024-09-09 at 10 38 32 AM" src="https://github.com/user-attachments/assets/2bcb7da3-6fee-4504-8775-b187426eb2c0">
 
 
 Code and Datasets used for 4PLY
