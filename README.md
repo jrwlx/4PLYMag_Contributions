@@ -10,7 +10,7 @@ This repository contains code and datasets used for the analysis and visualizati
 Thank you Pete from 4PLY for helping guide the data, getting the articles live, and just being awesome. 
 This project was heavily inspired by Jared Wilbur's breakdown of Eric Koston http://4plymag.com/koston/
 
-## DATASETS
+## Datasets
 
 Collected manually through watching youtube video using google sheets. 
 
@@ -37,7 +37,7 @@ But were remedied to the best of my ability in the code.
 - contains only best scored 'runs' and 'best trick' from competitions where Yuto placed 3rd or higher 
 - obstacle column has another category of 'bank' which consist of tricks done into a bank, out of a bank, or bank to bank
 
-## CODE 
+## Code 
 
 Code was executed in Jupyter Notebook and using libraries such as Pandas to preprocess and clean data, and Matplotlib and seaborn to visualize data. Not all visualizations present in the code were used in the final article. 
 
