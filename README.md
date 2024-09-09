@@ -8,6 +8,7 @@ This repository contains code and datasets used for the analysis and visualizati
 ## Acknowledgments
 
 Thank you Pete from 4PLY for helping guide the data, getting the articles live, and just being awesome. 
+
 This project was heavily inspired by Jared Wilbur's breakdown of Eric Koston http://4plymag.com/koston/
 
 ## Datasets
